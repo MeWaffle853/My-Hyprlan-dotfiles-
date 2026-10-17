@@ -1,4 +1,4 @@
-Use nerd font for it to work fine.
+Use jetbrain nerd font for it to work fine.
 
 apps needed to use: sudo pacman -S fish grim alacritty waybar nvim | paru -S waypaper anyrun
 
